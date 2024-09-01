@@ -23,10 +23,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 height=250 src="https://github-readme-stats.vercel.app/api?username=joyelsebastian&theme=neon&hide_border=false&include_all_commits=true&count_private=false" alt="streak stats"/>
-  <img width=390 height=250 src="https://github-readme-streak-stats.herokuapp.com/?user=joyelsebastian&theme=neon&hide_border=false" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=joyelsebastian&theme=neon&hide_border=false" alt="readme stats" />
   <br/>
-  <img width=390 height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyelsebastian&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyelsebastian&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" />
 </div>
 <br/>
 <br/>
